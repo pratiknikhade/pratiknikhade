@@ -17,15 +17,3 @@
 <h2 align="left">I mostly work with Python,SQL,Excel and Power BI</h2>
 
 ###
-
-<div align="left">
-  <img src="https://www.cleanpng.com/png-python-high-level-programming-language-language-799304/" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <script type="module">
-import programmingLanguagesLogospython from 'https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/+esm'
-</script>
-</div>
-
-###
